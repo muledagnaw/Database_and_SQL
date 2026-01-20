@@ -63,7 +63,6 @@ Advanced SQL analysis using the **World** database.
 
 * **MySQL**
 * **MySQL Workbench**
-* **Northwind Database**
 * **World Database**
 * **SQL**
 
