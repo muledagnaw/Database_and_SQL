@@ -32,7 +32,7 @@ Advanced SQL analysis using the **World** database. [world database](https://b2w
 * Calculate population density
 * Rank cities by population
   
-## The following are examples of my work in SQL Workbench, based on the scenarios described above
+# The following are examples of my work in SQL Workbench, based on the scenarios described above
 
 <img width="923" height="459" alt="image" src="https://github.com/user-attachments/assets/4f647aa4-e0dc-4760-9684-588751c400da" />
 
