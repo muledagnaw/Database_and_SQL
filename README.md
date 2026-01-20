@@ -4,15 +4,6 @@
 This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**.
 ---
 
-## 📁 Repository Structure
-
-The work is organised into four main sections:
-
-*  SQL basics using the Northwind database
-*  SQL JOINs and multi-table queries
-*  Advanced SQL analysis using the World database
-
----
 
 
 ## 🌍 SQL Practical (World Database)
@@ -40,6 +31,8 @@ Advanced SQL analysis using the **World** database. [world database](https://b2w
 * Compare capital city populations
 * Calculate population density
 * Rank cities by population
+##The following are examples of my work in SQL Workbench, based on the scenarios described above
+
 <img width="923" height="459" alt="image" src="https://github.com/user-attachments/assets/4f647aa4-e0dc-4760-9684-588751c400da" />
 
 <img width="980" height="602" alt="image" src="https://github.com/user-attachments/assets/50b1950a-a6e7-4f44-9604-e3d5cb36922b" />
