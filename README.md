@@ -1,7 +1,7 @@
 
 # 📊 Database & SQL Fundamentals – Coursework Portfolio
 
-This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**, the **Northwind** sample database, and the **World** database.
+This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**,the **World** database.
 ---
 
 ## 📁 Repository Structure
