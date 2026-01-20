@@ -20,7 +20,10 @@ The work is organised into four main sections:
 Advanced SQL analysis using the **World** database.
 
 ### Skills Demonstrated:
-
+* SELECT *
+* Filtering with WHERE
+* Sorting with ORDER BY
+* Removing duplicates with DISTINCT
 * Aggregate functions (`COUNT`, `AVG`)
 * Filtering with `LIKE`, `BETWEEN`
 * Subqueries
