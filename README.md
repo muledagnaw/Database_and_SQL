@@ -1,7 +1,7 @@
 
 # 📊 Database & SQL 
 
-This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**,the **World** database 
+This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**.
 ---
 
 ## 📁 Repository Structure
