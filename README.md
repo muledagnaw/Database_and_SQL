@@ -1,7 +1,7 @@
 
 # 📊 Database & SQL Fundamentals – Coursework
 
-This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**,the **World** database.
+This repository documents my learning and practical work covering **database fundamentals** and **SQL querying** using **MySQL Workbench**,the **World** database [](https://b2wcompletetraining057-my.sharepoint.com/personal/yusufs_justit_co_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyusufs%5Fjustit%5Fco%5Fuk%2FDocuments%2FDesktop%2FBootcamp%20Folder%2FWorkshops%2F8%20Week%20Model%2FWeek%203%20%2D%20SQL%2Fworld%20db%2Fcreate%20world%20db%2Esql&parent=%2Fpersonal%2Fyusufs%5Fjustit%5Fco%5Fuk%2FDocuments%2FDesktop%2FBootcamp%20Folder%2FWorkshops%2F8%20Week%20Model%2FWeek%203%20%2D%20SQL%2Fworld%20db&ga=1).
 ---
 
 ## 📁 Repository Structure
