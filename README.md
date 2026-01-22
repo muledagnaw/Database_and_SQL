@@ -84,5 +84,3 @@ These examples show how SQL queries transform raw database tables into meaningfu
 * **SQL**
 
 
-* Rewrite it to sound more **technical**
-* Add **comments under each image** explaining the exact query logic
