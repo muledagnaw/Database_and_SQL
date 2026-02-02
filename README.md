@@ -76,11 +76,9 @@ These examples show how SQL queries transform raw database tables into meaningfu
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools 
 
-* **MySQL**
 * **MySQL Workbench**
 * **World Database**
-* **SQL**
 
 
